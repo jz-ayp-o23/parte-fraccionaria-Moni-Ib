@@ -13,7 +13,7 @@ if entrada % 1 == CONSTANTE :
     fraccionario = "No tiene decimales"
 
 else:
-    fraccionario = "Sí tiene deciamles"
+    fraccionario = "Sí tiene decimales"
 
 # Salidas
 print(fraccionario)
